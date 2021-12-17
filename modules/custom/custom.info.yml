@@ -1,0 +1,4 @@
+name: Example_user_register
+description: Form User Register Example
+type: module
+core: 8.x

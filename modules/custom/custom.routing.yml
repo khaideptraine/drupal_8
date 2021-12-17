@@ -1,0 +1,7 @@
+custom.register_form:
+  path: '/register'
+  defaults:
+    _title: 'Đăng ký'
+    _form: '\Drupal\custom\Form\RegisterForm'
+  requirements:
+    _permission: 'access content'
